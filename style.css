@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.7fc13dca4c917a2ad4cb2b4b90b2033e?rik=Kuwdcjp8D9Aj%2bA&pid=ImgRaw&r=0");
+    background-size: cover;
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: lightcyan;
+}
+
+.main{
+    max-width:500px;
+    margin-left:auto;
+    margin-right: auto;
+    padding:10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background:linear-gradient(white, red) ;
+    text-shadow: 2px 2px 2px black;
+}
+
+#save-btn {
+    background: linear-gradient(lightgreen, white);
+     text-shadow: 2px 2px 2px black;
+}
+
